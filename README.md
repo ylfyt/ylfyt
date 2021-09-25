@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Yudi👋
+
+I'm a Computer Science student at Bandung Institute of Technology
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,4 +14,3 @@
 [![Yudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudialfayat&count_private=true&show_icons=true&theme=radical)](https://github.com/yudialfayat/) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudialfayat&layout=compact&theme=radical&langs_count=9)](https://github.com/yudialfayat/)
-
