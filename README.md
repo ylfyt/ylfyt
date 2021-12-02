@@ -14,7 +14,6 @@ I'm a Computer Science student at Bandung Institute of Technology
 <p align="left">
 <a href="https://github.com/yudialfayat">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yudialfayat&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=yudialfayat&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical&exclude_repo=
-php-mvc-web-store"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=yudialfayat&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical&hide=html,css"/>
 </a>
 </p>
