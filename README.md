@@ -4,7 +4,7 @@ I'm a Computer Science student at Bandung Institute of Technology
 
 ### Skills ✨  
 Languages : C/C++, C#, Typescript, Python, Java, PHP, Javascript, Kotlin, Dart   
-Web       : ASP.NET, ExpressJs, ReactJs, SvelteJs, VueJs, Vite, GraphQL, TypeORM, Bootstrap, TailwindCSS, Socket.IO, HTML, CSS  
+Web       : ASP.NET, Express, React, Vue, Svelte, Svelte-kit, Vite, GraphQL, TypeORM, Bootstrap, TailwindCSS, Socket.IO, HTML, CSS  
 Games     : Unity3D  
 Android   : Native Kotlin, Xamarin, Flutter  
 Desktop   : JavaFX, Tkinter  
