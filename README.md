@@ -7,10 +7,10 @@ Languages : C/C++, C#, Typescript, Python, Java, PHP, Javascript, Kotlin, Dart
 Web       : ASP.NET, Express, React, Vue, Svelte, Svelte-kit, Vite, GraphQL, TypeORM, Bootstrap, TailwindCSS, Socket.IO, HTML, CSS  
 Games     : Unity3D  
 Android   : Native Kotlin, Xamarin, Flutter  
-Desktop   : JavaFX, Tkinter  
+Desktop   : JavaFX, Tkinter, .NET  
 Databases : MySQL, PostgreSQL, MongoDB  
-Embeded System & IoT: RaspberryPi, Arduino, ESP, Teensy  
-Other tools : Git, VSCode
+Embeded System & IoT: RaspberryPi, Arduino, ESP, Teensy, OpenCM  
+Other tools : Git, Docker, VSCode
 
 ### Find me on 👀
 <a href="https://www.linkedin.com/in/yudi-alfayat-6371781b8/" target="_blank">
