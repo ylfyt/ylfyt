@@ -3,14 +3,16 @@
 I'm a Computer Science student at Bandung Institute of Technology
 
 ### Skills ✨  
-Languages : C/C++, C#, Typescript, Python, Java, PHP, Javascript, Kotlin, Dart   
-Web       : ASP.NET, Express, React, Vue, Svelte, Svelte-kit, Vite, GraphQL, TypeORM, Bootstrap, TailwindCSS, Socket.IO, HTML, CSS  
-Games     : Unity3D  
-Android   : Native Kotlin, Xamarin, Flutter  
-Desktop   : JavaFX, Tkinter, .NET  
-Databases : MySQL, PostgreSQL, MongoDB  
-Embeded System & IoT: RaspberryPi, Arduino, ESP, Teensy, OpenCM  
-Other tools : Git, Docker, VSCode
+Languages : C/C++, C#, Typescript, Python, Java, PHP, Javascript, Kotlin, Dart  
+Backend : ASP.NET (+Entity Framework Core), NodeJs (ExpressJs, Socket.IO, TypeORM, Mongoose), CodeIgniter, Jwt, Rest, GraphQL  
+Frontend : React, Vue, Vite, Svelte, Svelte-Kit, TailwindCSS, Bootstrap, HTML, CSS  
+IoT & Embedded System: RaspberryPi, Arduino, ESP, Teensy, OpenCM  
+Android Development : Native Kotlin, Xamarin, Flutter  
+Desktop Development : JavaFX, Tkinter, .NET  
+Game Development : Unity3D  
+Databases : MySQL, PostgreSQL, SQLite, MongoDB  
+Other: Git, Docker, VSCode, MVC
+
 
 ### Find me on 👀
 <a href="https://www.linkedin.com/in/yudi-alfayat-6371781b8/" target="_blank">
