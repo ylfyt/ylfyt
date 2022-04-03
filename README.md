@@ -7,9 +7,9 @@ Languages : C/C++, C#, Typescript, Python, Java, PHP, Javascript, Kotlin, Dart
 Backend : ASP.NET (+Entity Framework Core), NodeJs (ExpressJs, Socket.IO, TypeORM, Mongoose), CodeIgniter, Jwt, Rest, GraphQL  
 Frontend : React, Vue, Vite, Svelte, Svelte-Kit, TailwindCSS, Bootstrap, HTML, CSS  
 IoT & Embedded System: RaspberryPi, Arduino, ESP, Teensy, OpenCM  
-Android Development : Native Kotlin, Xamarin, Flutter  
-Desktop Development : JavaFX, Tkinter, .NET  
-Game Development : Unity3D  
+Android : Native Kotlin, Xamarin, Flutter  
+Desktop : JavaFX, Tkinter, .NET  
+Game : Unity3D  
 Databases : MySQL, PostgreSQL, SQLite, MongoDB  
 Other: Git, Docker, VSCode, MVC
 
