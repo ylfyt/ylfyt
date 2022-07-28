@@ -4,10 +4,10 @@ I'm a Computer Science student at Bandung Institute of Technology
 
 ### Skills ✨  
 Languages : C/C++, C#, Typescript, Python, Java, PHP, Javascript, Kotlin, Dart  
-Backend : ASP.NET (+Entity Framework Core), NodeJs (ExpressJs, Socket.IO, TypeORM, Mongoose), CodeIgniter, Jwt, Rest, GraphQL  
+Backend : ASP.NET, Entity Framework Core, NestJs, ExpressJs, Socket.IO, TypeORM, Mongoose, CodeIgniter, Jwt, Rest, GraphQL  
 Frontend : React, Vue, Vite, Svelte, Svelte-Kit, TailwindCSS, Bootstrap, HTML, CSS  
 IoT & Embedded System: RaspberryPi, Arduino, ESP, Teensy, OpenCM  
-Android : Native Kotlin, Xamarin, Flutter  
+Mobile : Kotlin, Xamarin, Flutter, React Native  
 Desktop : JavaFX, Tkinter, .NET  
 Game : Unity3D  
 Databases : MySQL, PostgreSQL, SQLite, MongoDB  
