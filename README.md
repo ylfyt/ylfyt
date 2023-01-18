@@ -3,7 +3,7 @@
 I'm a Computer Science student at Bandung Institute of Technology
 
 ### Skills ✨  
-Languages : C/C++, C#, Typescript, Java, Python, PHP, Javascript, Kotlin, Dart  
+Languages : C/C++, GO, C#, Typescript, Java, Python, PHP, Javascript, Kotlin, Dart  
 Backend : Spring Boot, ASP.NET, Entity Framework Core, NestJs, Hibernate, ExpressJs, Socket.IO, TypeORM, Mongoose, CodeIgniter, Jwt, Rest, GraphQL  
 Frontend : ReactJS, NextJS, Vue, Svelte, Svelte-Kit, Vite, Webpack, TailwindCSS, Bootstrap, HTML, CSS  
 IoT & Embedded System: RaspberryPi, Arduino, ESP, Teensy, OpenCM  
