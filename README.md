@@ -1,6 +1,6 @@
 ### Hi, I'm Yudi👋
 
-I'm a Computer Science student at Bandung Institute of Technology
+I'm a Software Engineer💻
 
 ### Skills ✨  
 Languages : C/C++, GO, C#, Typescript, Java, Python, PHP, Javascript, Kotlin, Dart  
