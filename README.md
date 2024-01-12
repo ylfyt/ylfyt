@@ -1,16 +1,16 @@
 ### Hi, I'm Yudi👋
 
-I'm a Software Engineer💻
+I'm currently working as a Software Engineer💻
 
 ### Skills ✨  
-Languages : C/C++, GO, C#, Typescript, Java, Python, PHP, Javascript, Kotlin, Dart  
-Backend : Spring Boot, ASP.NET, Entity Framework Core, NestJs, Hibernate, ExpressJs, Socket.IO, TypeORM, Mongoose, CodeIgniter, Jwt, Rest, GraphQL  
-Frontend : ReactJS, NextJS, Vue, Svelte, Svelte-Kit, Vite, Webpack, TailwindCSS, Bootstrap, HTML, CSS  
+Languages : Go, C/C++, C#, Typescript, Java, Python, PHP, Javascript, Kotlin, Dart, SQL  
+Backend : Go(Mux, Chi, Gin), Spring Boot, ASP.NET, Entity Framework Core, NestJs, Hibernate, ExpressJs, Socket.IO, TypeORM, Mongoose, CodeIgniter, Jwt, Rest, GraphQL  
+Frontend : Angular, ReactJS, NextJS, Vue, Svelte, SvelteKit, Vite, Webpack, TailwindCSS, Bootstrap, HTML, CSS  
 IoT & Embedded System: RaspberryPi, Arduino, ESP, Teensy, OpenCM  
-Mobile : Kotlin, Xamarin, Flutter, React Native  
-Desktop : JavaFX, Tkinter, .NET  
+Mobile : Kotlin, Xamarin, Flutter, React Native, Ionic/Cordova  
+Desktop : JavaFX, Tkinter, .NET, Tauri, Wails  
 Game : Unity3D  
-Databases : MySQL, PostgreSQL, SQLite, MongoDB  
+Databases : MySQL, PostgreSQL, SQLite, MongoDB, Cassandra, Meilisearch, Elasticsearch, Redis  
 Other: Git, Docker, VSCode, MVC
 
 
